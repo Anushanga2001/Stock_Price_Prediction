@@ -12,6 +12,6 @@ This project focuses on predicting stock prices and visually representing the pr
 - **Data Visualization:** Created detailed visualizations to represent stock price trends, predictions, and performance metrics, offering clear insights into the market movements.
 - **Interactive Analysis:** The project includes interactive visualizations, allowing users to explore the data and predictions dynamically.
 
-This project showcases my ability to work with real-world financial data, apply predictive modeling, and present data in an accessible and informative manner.
+This project showcases my ability to work with real-world financial data, apply predictive modeling, and present data in an accessible and informative manner. continues learning.
 
 ---
